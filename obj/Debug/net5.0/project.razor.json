@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Connor\\Documents\\.NET WEB DEVELOPMENT\\Northwind\\Views\\Product\\index.cshtml",
+      "TargetPath": "Views\\Product\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Connor\\Documents\\.NET WEB DEVELOPMENT\\Northwind\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
