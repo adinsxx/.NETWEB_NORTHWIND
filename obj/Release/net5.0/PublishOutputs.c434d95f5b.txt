@@ -1,6 +1,7 @@
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\bin\Release\net5.0\publish\Northwind.exe
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\bin\Release\net5.0\publish\wwwroot\css\client.css
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\bin\Release\net5.0\publish\wwwroot\js\client.js
+C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\bin\Release\net5.0\publish\wwwroot\media\toast.wav
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\bin\Release\net5.0\publish\appsettings.Development.json
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\bin\Release\net5.0\publish\appsettings.json
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\bin\Release\net5.0\publish\Northwind.dll

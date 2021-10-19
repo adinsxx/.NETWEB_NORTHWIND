@@ -1,4 +1,6 @@
 using System;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace Northwind.Models
 {
     public class Discount
@@ -8,6 +10,7 @@ namespace Northwind.Models
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
         public int ProductID { get; set; }
+        [Column(TypeName= "decimal(4,4")]
         public decimal DiscountPercent { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
