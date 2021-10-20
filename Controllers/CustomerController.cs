@@ -17,11 +17,14 @@ namespace Norwithwind.Controllers
         [HttpPost]
         public IActionResult Register (Customer customer){
             if(!ModelState.IsValid){
+                if(_northwindContext.Customers.Any(c => c.CompanyName == customer.CompanyName))
+                {
                  ModelState.AddModelError("", "Invalid data");
+                }
             }
             else{
                 _northwindContext.Register(customer);
-                return RedirectToAction("Index", "Customer");
+                return RedirectToAction("Index", "Home");
             } 
             return View();
         }

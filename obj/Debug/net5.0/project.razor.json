@@ -15619,13 +15619,13 @@
   "RootNamespace": "Northwind",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Connor\\Documents\\.NET WEB DEVELOPMENT\\Northwind\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Connor\\Documents\\.NET WEB DEVELOPMENT\\Northwind\\Views\\Customer\\Register.cshtml",
+      "TargetPath": "Views\\Customer\\Register.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Connor\\Documents\\.NET WEB DEVELOPMENT\\Northwind\\Views\\Product\\Register.cshtml",
-      "TargetPath": "Views\\Product\\Register.cshtml",
+      "FilePath": "c:\\Users\\Connor\\Documents\\.NET WEB DEVELOPMENT\\Northwind\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {

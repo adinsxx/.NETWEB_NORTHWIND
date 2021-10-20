@@ -26,7 +26,7 @@ namespace Northwind
         public void ConfigureServices(IServiceCollection services)
         {
             // this is where we use the config info for our connection string
-            services.AddDbContext<NorthwindContext>(options => options.UseSqlServer(Configuration["Data:Northwind:ConnectionString"]));
+            services.AddDbContext<NorthwindContext>(options => options.UseSqlServer(Configuration["Data:Product:ConnectionString"]));
             services.AddControllersWithViews();
         }
 

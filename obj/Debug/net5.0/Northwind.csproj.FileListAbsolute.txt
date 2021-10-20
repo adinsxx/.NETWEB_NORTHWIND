@@ -58,7 +58,6 @@ C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Northw
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Razor\Views\Product\Category.cshtml.g.cs
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Razor\Views\Product\index.cshtml.g.cs
-C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Razor\Views\Product\Register.cshtml.g.cs
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
@@ -70,3 +69,4 @@ C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Northw
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\ref\Northwind.dll
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Northwind.pdb
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Northwind.genruntimeconfig.cache
+C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Debug\net5.0\Razor\Views\Customer\Register.cshtml.g.cs
