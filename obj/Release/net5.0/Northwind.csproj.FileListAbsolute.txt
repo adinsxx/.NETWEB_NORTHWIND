@@ -69,3 +69,4 @@ C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Release\net5.0\ref\
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Release\net5.0\Northwind.pdb
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Release\net5.0\Northwind.genruntimeconfig.cache
 C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Release\net5.0\Razor\Views\Product\index.cshtml.g.cs
+C:\Users\Connor\Documents\.NET WEB DEVELOPMENT\Northwind\obj\Release\net5.0\Razor\Views\Customer\Register.cshtml.g.cs
